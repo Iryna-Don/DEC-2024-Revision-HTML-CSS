@@ -173,6 +173,7 @@ button {
     font-weight: 700;
     text-transform: capitalize;
     border: none;
+    cursor: pointer;
 }
 
 /*===================================sectionBrowse==================================*/
@@ -227,6 +228,7 @@ button {
     align-items: start;
     gap: 30px;
     transition: 1s;
+    cursor: pointer;
 }
 
 .card:hover {
