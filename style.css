@@ -372,15 +372,6 @@ h6 {
     align-items: start;
 }
 
-.post_block button {
-    width: 165px;
-    height: 64px;
-    color: #FFFFFE;
-    font-size: 20px;
-    font-weight: 700;
-    text-transform: capitalize;
-}
-
 /*================================.subscribeSection=========================================*/
 .subscribeSection {
     height: 453px;
@@ -464,7 +455,7 @@ footer {
     align-items: center;
 }
 
-.category_footer > h3 {
+.connection > div > h3 {
     color: #2B2C34;
     font-size: 20px;
     font-weight: 700;
