@@ -176,6 +176,10 @@ button {
     cursor: pointer;
 }
 
+button:hover, .btn:hover{
+    transform: scale(1.1);
+}
+
 /*===================================sectionBrowse==================================*/
 .sectionBrowse {
     height: 500px;
